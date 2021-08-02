@@ -1,0 +1,4 @@
+StepMotor.c:16:6:StepMotorClockwise	8	static
+StepMotor.c:49:6:StepMotorCounterClockwise	8	static
+StepMotor.c:81:6:StepMotorOutput	16	static
+StepMotor.c:102:6:StepPhaseDriving	16	static

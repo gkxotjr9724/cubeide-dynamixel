@@ -1,0 +1,6 @@
+dynamixel_Motor.c:52:6:arm_up	8	static
+dynamixel_Motor.c:59:6:arm_grabposition	8	static
+dynamixel_Motor.c:65:6:arm_grabup	8	static
+dynamixel_Motor.c:71:6:arm_forward	8	static
+dynamixel_Motor.c:77:6:arm_3forward	8	static
+dynamixel_Motor.c:83:6:arm_comeback	8	static
